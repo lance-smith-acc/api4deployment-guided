@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lance-smith-acc/api4deployment-guided#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
